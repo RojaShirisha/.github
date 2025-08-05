@@ -1,5 +1,5 @@
 ---
-name: Deploy Node.js App
-description: Template to build, test and deploy a Node.js application.
+name: Deploy Roja.js App
+description: Template to build, test and deploy a Roja.js application.
 categories: [deployment]
 ---
