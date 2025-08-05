@@ -1,7 +1,16 @@
 ---
-name: Deploy Roja.js App
-description: Template to build, test and deploy a Roja.js application.
+name: Deploy Roja App
+description: Template for deploying a Node.js app
 categories: [deployment]
 ---
 
-name: Deploy Node.js App
+name: Deploy
+
+on: [push]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: echo "Deploying app..."
