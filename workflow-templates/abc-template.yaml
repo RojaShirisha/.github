@@ -1,7 +1,7 @@
 ---
 name: Deploy Roja App
 description: Template for deploying a Node.js app
-categories: [deployment]
+categories: [Deployment]
 ---
 
 name: Deploy
