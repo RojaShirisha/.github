@@ -1,0 +1,8 @@
+{
+    "name": "Roja Organization Workflow",
+    "description": "Template for deploying a Node.js app",
+    "iconName": "example-icon",
+    "categories": [
+        "Deployment"
+    ]
+}
